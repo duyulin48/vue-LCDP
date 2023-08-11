@@ -1,0 +1,79 @@
+{
+  "id": "4199798",
+  "name": "低代码平台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6151209",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "6151294",
+      "name": "times",
+      "font_class": "times",
+      "unicode": "e82a",
+      "unicode_decimal": 59434
+    },
+    {
+      "icon_id": "6151306",
+      "name": "undo",
+      "font_class": "undo",
+      "unicode": "e830",
+      "unicode_decimal": 59440
+    },
+    {
+      "icon_id": "6151360",
+      "name": "arrow-to-bottom",
+      "font_class": "arrow-to-bottom",
+      "unicode": "e83c",
+      "unicode_decimal": 59452
+    },
+    {
+      "icon_id": "6151361",
+      "name": "arrow-to-top",
+      "font_class": "arrow-to-top",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    },
+    {
+      "icon_id": "6172786",
+      "name": "terminal",
+      "font_class": "terminal",
+      "unicode": "e864",
+      "unicode_decimal": 59492
+    },
+    {
+      "icon_id": "8307796",
+      "name": "right-arrow-rect",
+      "font_class": "right-arrow-rect",
+      "unicode": "e884",
+      "unicode_decimal": 59524
+    },
+    {
+      "icon_id": "8307800",
+      "name": "left-arrow-rect",
+      "font_class": "left-arrow-rect",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "6151304",
+      "name": "reply",
+      "font_class": "reply",
+      "unicode": "e82f",
+      "unicode_decimal": 59439
+    },
+    {
+      "icon_id": "6151307",
+      "name": "redo",
+      "font_class": "redo",
+      "unicode": "e831",
+      "unicode_decimal": 59441
+    }
+  ]
+}
